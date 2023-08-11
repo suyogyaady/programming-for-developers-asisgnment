@@ -1,4 +1,4 @@
-package Question_Number7;
+package Q7;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
